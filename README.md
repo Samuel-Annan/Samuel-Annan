@@ -32,14 +32,6 @@ I'm currently working as a software engineer.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Samuel-Annan\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&v=2)
-
-![](https://streak-stats.demolab.com/?user=Samuel-Annan\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Annan\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact\&v=2)
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
